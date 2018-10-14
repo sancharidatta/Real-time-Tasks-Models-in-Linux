@@ -5,11 +5,11 @@ Team Members :
 
 
 Files :
-Source code   : newcode.c
-Text file     : input
-Output file   : outputfile.txt
-Makefile      : Makefile
-Report        : report.pdf
+Source code   : newcode.c;
+Text file     : input;
+Output file   : outputfile.txt;
+Makefile      : Makefile;
+Report        : report.pdf;
 
 Prerequisites:
 Linux kernel (preferably linux 2.6.19 and above) GNU (preferably gcc 4.5.0 and above)
